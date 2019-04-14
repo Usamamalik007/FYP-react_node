@@ -1,0 +1,7 @@
+1) upload image file to server
+
+2) run command on the uploaded image file for recignition
+
+3) another text file will be created on the server
+
+4) display the contents of text file on the front end
